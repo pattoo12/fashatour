@@ -1,0 +1,32 @@
+.b1{
+    background-color: bisque;
+}
+.b2{
+    background-color: aquamarine;
+}
+.b3{
+    background-color: #75ea9c;
+}
+.a1{
+    text-align: center;
+    font-size: 80px;
+    color: #f62c10;
+}
+.p1{
+    text-align: center;
+    font-family: Calibri;
+    font-size: 35px;
+    color: blue;
+    font-style: italic;
+
+}
+.ha{
+    color: #f62c10;
+    font-size: 35px;
+}
+.hc{
+    color: #f61046;
+}
+h3{
+    color: #171799;
+}
